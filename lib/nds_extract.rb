@@ -26,7 +26,6 @@ def directors_totals(nds)
   end 
   
 
-pp result
+result
 end
 
-directors_totals(directors_database)
